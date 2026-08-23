@@ -25,9 +25,8 @@ An automated robotic window cleaning system using Arduino Uno designed for high-
 * **Programming Language:** C / C++ (Arduino IDE)
 
 ---
-
 ## 📊 Presentation
-[![Presentation](https://img.shields.io/badge/Canva-Presentation-FF6C37?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/7u4c60bpmzzqoxg) 👈
+[![Presentation](https://img.shields.io/badge/Canva-Presentation-556B2F?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/7u4c60bpmzzqoxg) 👈
 
 ---
 
