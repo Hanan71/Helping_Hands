@@ -32,9 +32,8 @@ An automated robotic window cleaning system using Arduino Uno designed for high-
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/8348968d-485c-4675-a97f-5a2f0bdb4252" alt="building" width="380" /> | <img src="https://github.com/user-attachments/assets/bf402da4-06b8-4f7c-9ff1-516ab3961832" alt="code" width="380" /> |
 ---
----
 ## 📊 Presentation
-[![Presentation](https://img.shields.io/badge/Canva-Presentation-556B2F?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/7u4c60bpmzzqoxg) 👈
+[![Presentation](https://img.shields.io/badge/Canva-Presentation-0078D4?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/7u4c60bpmzzqoxg) 👈
 ---
 
 ## 👥 Contributors
