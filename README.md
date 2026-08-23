@@ -28,7 +28,7 @@ An automated robotic window cleaning system using Arduino Uno designed for high-
 
 ## 📸 Media & Screenshots
 
-| Skyscraper Facade Overview | Arduino Control Logic & Code Structure |
+| Proof of Concept Model| Arduino Control |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/8348968d-485c-4675-a97f-5a2f0bdb4252" alt="building" width="380" /> | <img src="https://github.com/user-attachments/assets/bf402da4-06b8-4f7c-9ff1-516ab3961832" alt="code" width="380" /> |
 ---
